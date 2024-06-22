@@ -53,6 +53,6 @@ Ce projet est distribué sous la licence MIT. Voir le fichier `LICENSE` pour plu
 
 ## Contact
 
-Pour toute question ou suggestion, n'hésitez pas à contacter KEMGONE à kemognemalone@gmail.com.
+Pour toute question ou suggestion, n'hésitez pas à contacter KEMOGONE à kemognemalone@gmail.com.
 
 

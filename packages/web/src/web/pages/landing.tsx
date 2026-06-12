@@ -355,7 +355,7 @@ export default function LandingPage() {
           <Shield size={16} color={c.accent} />
           <span style={{ fontFamily: "Space Grotesk, sans-serif", fontWeight: 700, color: c.textPrimary }}>NetSecure</span>
         </div>
-        <p style={{ fontSize: 13, color: c.textMuted }}>© 2025 NetSecure. Tous droits réservés.</p>
+        <p style={{ fontSize: 13, color: c.textMuted }}>© 2026 NetSecure. Tous droits réservés.</p>
       </footer>
     </div>
   );

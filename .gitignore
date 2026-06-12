@@ -1,0 +1,8 @@
+node_modules/
+.env
+.env.git
+*.db
+*.db-shm
+*.db-wal
+dist/
+.turbo/

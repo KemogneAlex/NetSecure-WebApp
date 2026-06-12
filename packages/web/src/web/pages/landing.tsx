@@ -232,8 +232,8 @@ export default function LandingPage() {
             // Tip 35 — limite largeur pour lignes lisibles
             maxWidth: "14ch",
           }}>
-            Votre réseau,{" "}
-            <span style={{ color: c.accent }}>sous contrôle.</span>
+            Votre réseau,
+            sous contrôle.
           </h1>
 
           {/* Tip 35 / Tip 94 — max ~65 caractères par ligne */}
